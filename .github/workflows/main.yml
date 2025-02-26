@@ -1,4 +1,4 @@
-name: End-to-end tests cypress
+name: End-to-end tests cypresss
 on: push
 jobs:
   cypress-run:
